@@ -1,0 +1,7 @@
+Temperatura: 27 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:31 | Uwagi: 
+Temperatura: 27 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:33 | Uwagi: 
+Temperatura: 27 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:35 | Uwagi: 
+Temperatura: 26 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:37 | Uwagi: 
+Temperatura: 26 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:39 | Uwagi: 
+Temperatura: 26 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:41 | Uwagi: 
+Temperatura: 26 | Wilgotnoœæ: 95 | Data: 19/06/2021 16:24:43 | Uwagi: 
